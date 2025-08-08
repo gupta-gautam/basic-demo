@@ -6,3 +6,5 @@ Author - Gautam Gupta
 Learning How to use Git & GitHub 
 <br>
 Learning How to create pull request
+<br>
+Learning How to merge pull request
