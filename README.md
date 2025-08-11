@@ -7,7 +7,7 @@ Learning How to use Git & GitHub
 <br>
 Learning How to push the project from Intellij
 <br>
-LearningHow to pull the project 
+Learning How to pull the project 
 <br>
 Learning How to create pull request
 <br>
