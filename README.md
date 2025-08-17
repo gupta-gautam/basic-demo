@@ -9,7 +9,7 @@ Learning How to Push the Project from Intellij
 <br>
 Learning How to Pull the Project 
 <br>
-Learning How to Create pull request
+Learning How to Create Pull request
 <br>
 Learning How to merge pull request
 
