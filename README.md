@@ -11,5 +11,5 @@ Learning How to Pull the Project
 <br>
 Learning How to Create Pull Request
 <br>
-Learning How to Merge Pull request
+Learning How to Merge Pull Eequest
 
