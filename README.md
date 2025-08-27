@@ -13,5 +13,5 @@ Learning How to Create Pull Request
 <br>
 Learning How to Merge Pull Request
 <br>
-Learning java and doing dsa
+Learning Java and doing dsa
 
