@@ -15,5 +15,5 @@ Learning How to Merge Pull Request
 <br>
 Learning Java and Doing DSA
 <br>
-Learning HTML
+Learning HTML and CSS
 
